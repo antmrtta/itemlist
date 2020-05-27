@@ -2559,19 +2559,19 @@
 	{
 		"abr": "linkmonosword",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "linkplasmasword",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "linkzeushammer",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
@@ -2647,12 +2647,6 @@
 		"defname": "PsychicSensitizer"
 	},
 	{
-		"abr": "psychicsilencer",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "PsychicSilencer"
-	},
-	{
 		"abr": "psyfocushelmet",
 		"price": 833,
 		"category": "Headgear",
@@ -2717,12 +2711,6 @@
 		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
-	},
-	{
-		"abr": "psytrainer(entropylink)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_EntropyLink"
 	},
 	{
 		"abr": "psytrainer(focus)",
@@ -3686,7 +3674,7 @@
 	},
 	{
 		"abr": "doublelightsaber(inquisitor)",
-		"price": 5000,
+		"price": 70000,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Inquis"
 	},
@@ -4190,19 +4178,19 @@
 	},
 	{
 		"abr": "lightsabercasing",
-		"price": 500,
+		"price": 20000,
 		"category": "Items",
 		"defname": "PJ_SaberCasing"
 	},
 	{
 		"abr": "lightsaberinternalcomponents",
-		"price": 500,
+		"price": 20000,
 		"category": "Items",
 		"defname": "PJ_SaberInternal"
 	},
 	{
 		"abr": "lightsaberpike",
-		"price": 5000,
+		"price": 70000,
 		"category": "Melee weapons",
 		"defname": "SWSaber_SaberPike"
 	},
@@ -6727,18 +6715,6 @@
 		"defname": "Old_Sith_Trooper_Helmet"
 	},
 	{
-		"abr": "sandcrawler",
-		"price": 6667,
-		"category": "Animal",
-		"defname": "Sandcrawler"
-	},
-	{
-		"abr": "sandcrawlermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Sandcrawler"
-	},
-	{
 		"abr": "techprint(thephoenix)",
 		"price": 4600,
 		"category": "Techprints",
@@ -6793,6 +6769,84 @@
 		"defname": "Z6_Rotary_Blaster_Cannon"
 	},
 	{
+		"abr": "animusstone",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "iedsmoketrap",
+		"price": 192,
+		"category": "Security",
+		"defname": "TrapIED_Smoke"
+	},
+	{
+		"abr": "prestigecataphractarmor",
+		"price": 6550,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "prestigecataphracthelmet",
+		"price": 1925,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
+	{
+		"abr": "prestigemarinearmor",
+		"price": 4217,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "prestigemarinehelmet",
+		"price": 1417,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorMarineHelmetPrestige"
+	},
+	{
+		"abr": "prestigereconarmor",
+		"price": 3292,
+		"category": "Armor",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "prestigereconhelmet",
+		"price": 1192,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetReconPrestige"
+	},
+	{
+		"abr": "psytrainer(bulletshield)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "psytrainer(waterskip)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "smokeshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Smoke"
+	},
+	{
 		"abr": "guestbed",
 		"price": 155,
 		"category": "Furniture",
@@ -6835,5 +6889,5 @@
 		"defname": "Zombrella"
 	}
 	],
-	"total": 1139
+	"total": 1148
 }
