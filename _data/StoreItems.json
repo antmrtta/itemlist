@@ -3836,157 +3836,157 @@
 	},
 	{
 		"abr": "pokemonegg(alolansandshrew)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_SandshrewAlolan"
 	},
 	{
 		"abr": "pokemonegg(alolanvulpix)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_VulpixAlolan"
 	},
 	{
 		"abr": "pokemonegg(bulbasaur)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Bulbasaur"
 	},
 	{
 		"abr": "pokemonegg(caterpie)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Caterpie"
 	},
 	{
 		"abr": "pokemonegg(charmander)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Charmander"
 	},
 	{
 		"abr": "pokemonegg(cleffa)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Cleffa"
 	},
 	{
 		"abr": "pokemonegg(cubone)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Cubone"
 	},
 	{
 		"abr": "pokemonegg(eevee)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Eevee"
 	},
 	{
 		"abr": "pokemonegg(ekans)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Ekans"
 	},
 	{
 		"abr": "pokemonegg(geodude)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Geodude"
 	},
 	{
 		"abr": "pokemonegg(igglybuff)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Igglybuff"
 	},
 	{
 		"abr": "pokemonegg(nidoran)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Nidoran"
 	},
 	{
 		"abr": "pokemonegg(oddish)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Oddish"
 	},
 	{
 		"abr": "pokemonegg(paras)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Paras"
 	},
 	{
 		"abr": "pokemonegg(pichu)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Pichu"
 	},
 	{
 		"abr": "pokemonegg(pidgey)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Pidgey"
 	},
 	{
 		"abr": "pokemonegg(rattata)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Rattata"
 	},
 	{
 		"abr": "pokemonegg(sandshrew)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Sandshrew"
 	},
 	{
 		"abr": "pokemonegg(snorlax)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Snorlax"
 	},
 	{
 		"abr": "pokemonegg(spearow)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Spearow"
 	},
 	{
 		"abr": "pokemonegg(squirtle)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Squirtle"
 	},
 	{
 		"abr": "pokemonegg(venonat)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Venonat"
 	},
 	{
 		"abr": "pokemonegg(voltorb)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Voltorb"
 	},
 	{
 		"abr": "pokemonegg(vulpix)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Vulpix"
 	},
 	{
 		"abr": "pokemonegg(weedle)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Weedle"
 	},
 	{
 		"abr": "pokemonegg(zubat)",
-		"price": 83,
+		"price": -10,
 		"category": "Pokemon eggs",
 		"defname": "O21_Egg_Zubat"
 	},
@@ -4435,6 +4435,36 @@
 		"defname": "Meat_O21_Pokemon_Zubat"
 	},
 	{
+		"abr": "apricornprimativepokéball",
+		"price": 200,
+		"category": "Ranged weapons",
+		"defname": "PokeBall_Apricorn"
+	},
+	{
+		"abr": "greatpokéball",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "PokeBall_GreatBall"
+	},
+	{
+		"abr": "masterpokéball",
+		"price": 7000,
+		"category": "Ranged weapons",
+		"defname": "PokeBall_MasterBall"
+	},
+	{
+		"abr": "standardpokéball",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "PokeBall_PokeBall"
+	},
+	{
+		"abr": "ultrapokéball",
+		"price": 2042,
+		"category": "Ranged weapons",
+		"defname": "PokeBall_UltraBall"
+	},
+	{
 		"abr": "guestbed",
 		"price": 155,
 		"category": "Furniture",
@@ -4469,7 +4499,13 @@
 		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
 	}
 	],
-	"total": 745
+	"total": 751
 }
