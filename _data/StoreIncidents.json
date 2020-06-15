@@ -76,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "animaltame",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 3000,
 		"karmatype": "Good"
@@ -206,6 +211,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -244,7 +254,13 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 49
+	"total": 52
 }
+
